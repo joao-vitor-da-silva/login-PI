@@ -1,0 +1,29 @@
+{
+  "name": "login-pi",
+  "version": "1.0.0",
+  "description": "Atividade modulo 3 de PI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-vitor-da-silva/login-PI.git"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "Express"
+  ],
+  "author": "João Vitor da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joao-vitor-da-silva/login-PI/issues"
+  },
+  "homepage": "https://github.com/joao-vitor-da-silva/login-PI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
